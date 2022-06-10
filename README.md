@@ -49,4 +49,4 @@
 > *
 > * Price Breakdown:
 > * * If you have a resource that has 3.5k lines of code, and you have a bug that you want me to fix it and give you the final product working you will pay 35 euroes + 50 euroes / 60 minutes
-> * * If you have a small resources that has <500 lines of code you pay online the 50 euroes / 60 minutes
+> * * If you have a small resources that has <500 lines of code you pay only the 50 euroes / 60 minutes
