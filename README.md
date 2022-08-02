@@ -1,4 +1,4 @@
-# FiveM Redefined - Discord: krane#2890
+# FiveM Redefined - ADD ME ON Discord: krane#2890
 
 ## Teach
 
